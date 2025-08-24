@@ -3,22 +3,15 @@
 
 <!-- Banner Section -->
 <p align="center">
-  <img src="assets/banner.png" alt="Ragunath R - Software Engineer" />
+  <img src="banner.png" alt="Ragunath R - Software Engineer" />
 </p>
-I'm a 💻 ** Software Engineer**  who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Vue Js (JavaScript, APIs + Markup) and Bootstrap, Jquery, Html , Css.
+
+I'm a 💻 ** Software Engineer**  who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, VueJs (JavaScript, APIs + Markup) and Bootstrap, Jquery, Html , Css.
 
 | Building modern web apps  
 🌍 Based in India | 🎯 2+ years experience solving business problems with tech  
 
----
 
-### 🧑‍💻 About Me
-- ⚡ Passionate about crafting **user-friendly, scalable, and performant** web apps  
-- 🌱 Currently exploring **Next.js & TypeScript** to level up my full-stack skills  
-- 🎯 Goal: Contribute to impactful **open-source** and land exciting global opportunities  
-- ✨ Fun fact: I enjoy mentoring & explaining tech in a simple way  
-
----
 
 ### 🛠 Tech Stack
 - **Frontend:** React.js | Vue.js | Next.js | JavaScript (ES6+)  
