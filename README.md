@@ -6,10 +6,10 @@
   <img src="banner.png" alt="Ragunath R - Software Engineer" height="350px" width="100%"/>
 </p>
 
-I'm a 💻 ** Software Engineer**  who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, VueJs (JavaScript, APIs + Markup) and Bootstrap, Jquery, Html , Css.
+I'm a 💻  Software Engineer  who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, VueJs (JavaScript, APIs + Markup) and Bootstrap, Jquery, Html , Css.
 
-| Building modern web apps  
-🌍 Based in India | 🎯 2+ years experience solving business problems with tech  
+  
+ Building modern web apps | 🌍 Based in India | 🎯 2+ years experience solving business problems with tech  
 
 
 
