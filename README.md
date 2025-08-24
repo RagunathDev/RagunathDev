@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hi, I'm Ragunath R  👨🏻‍💻</h1>
+<h1 align="">👋 Hi, I'm Ragunath R  👨🏻‍💻</h1>
 
 
 <!-- Banner Section -->
@@ -12,7 +12,7 @@ I'm a 💻  Software Engineer  who is passionate about making contributing to op
   
  ----
 
-<p align="center">
+<p align="">
   🚀 Software Engineer | Frontend Developer | Trainer <br/>
   💡 Building scalable, user-friendly web applications <br/>
   🌍 Currently Based in India | 🎯 2+ years experience solving business problems with tech  
