@@ -1,5 +1,5 @@
 
-# Hey, I'm Ragunath  👋
+# Hey, I'm Ragunath  👋 👨🏻‍💻
 
 <!-- Banner Section -->
 <p align="center">
