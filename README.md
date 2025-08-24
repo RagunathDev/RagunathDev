@@ -1,45 +1,58 @@
-
-# Hey, I'm Ragunath  👋 👨🏻‍💻
-
 <!-- Banner Section -->
 <p align="center">
-  <img src="banner.png" alt="Ragunath R - Software Engineer" height="350px" width="100%"/>
+  <img src="assets/banner.png" alt="Ragunath R - Software Engineer" />
 </p>
 
-I'm a 💻  Software Engineer  who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, VueJs (JavaScript, APIs + Markup) and Bootstrap, Jquery, Html , Css.
-
-  
- Building modern web apps | 🌍 Based in India | 🎯 2+ years experience solving business problems with tech  
-
-
-
-### 🛠 Tech Stack
-- **Frontend:** React.js | Vue.js | Next.js | JavaScript (ES6+)  
-- **UI & Styling:** CSS3 | HTML5 | Bootstrap | TailwindCSS  
-- **Other Tools:** jQuery | Git | GitHub | VS Code  
+<h1 align="center">👋 Hi, I'm Ragunath R</h1>
+<p align="center">
+  🚀 Software Engineer | Frontend Developer | Trainer <br/>
+  💡 Building scalable, user-friendly web applications <br/>
+  🌍 Open to remote opportunities worldwide
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![Ragunath's GitHub stats](https://github-readme-stats.vercel.app/api?username=RagunathDev&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RagunathDev&layout=compact&theme=radical)  
-
----
-
-### 🚀 Featured Projects
-🔹 [DSA - For Every Day](https://github.com/RagunathDev/DSA) → My daily LeetCode & problem-solving repo  
-
+### 👨‍💻 About Me  
+- 💻 Frontend Developer with **2+ years experience**  
+- 🎯 Specialized in **React.js & Vue.js**  
+- 📚 Currently improving **DSA & System Design**  
+- 🎓 Part-time **Trainer for React & JavaScript**  
 
 ---
 
-### 📫 Connect with Me
-- 📧 Email: workswithragunath@gmail.com  
-- 🌐 Portfolio: https://ragunath-portfolio.vercel.app
-- 💼 LinkedIn: [https://www.linkedin.com/in/dev-ragunath-r/](#)  
+### 🚀 Tech Stack  
+
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,git,github" />
+</p>
 
 ---
 
-⭐️ _“Code is like humor. When you have to explain it, it’s bad.”_  
+### 📊 GitHub Stats  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RagunathDev&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RagunathDev&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+</p>
 
+---
+
+### 🌱 What I’m currently working on  
+- 🔥 Daily **DSA practice** ([DSA Repo](https://github.com/RagunathDev/DSA))  
+- 🛠️ Developing **modern UI components** with React & Vue  
+- 📈 Preparing for **Amazon Online Assessments**  
+
+---
+
+### 🤝 Connect with Me  
+
+<p align="left">
+  <a href="mailto:workswithragunath@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ragunath-r/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/RagunathDev"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://youtube.com/@Videtech360"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+
+---
+
+⭐️ From [RagunathDev](https://github.com/RagunathDev)
