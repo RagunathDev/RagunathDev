@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="assets/banner.png" alt="Ragunath R - Software Engineer" />
+  <img src="banner.png" alt="Ragunath R - Software Engineer" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Ragunath R</h1>
