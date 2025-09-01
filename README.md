@@ -59,14 +59,14 @@ I'm a 💻  Software Engineer  who is passionate about making contributing to op
   <a href="mailto:workswithragunath@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/dev-ragunath-r/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/RagunathDev"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://youtube.com/@Videtech360"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://youtube.com/@Ragunath065"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
 
 ⭐️ From [RagunathDev](https://github.com/RagunathDev)
 
-⭐️ _“Code is like humor. When you have to explain it, it’s bad.”_  
+⭐️ _"To understand recursion, you must first understand recursion."
 
 
 
